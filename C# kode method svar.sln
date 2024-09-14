@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# kode method svar", "C# kode method svar\C# kode method svar.csproj", "{2D91AF46-800F-4167-B983-3C35F01B4F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D91AF46-800F-4167-B983-3C35F01B4F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D91AF46-800F-4167-B983-3C35F01B4F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D91AF46-800F-4167-B983-3C35F01B4F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D91AF46-800F-4167-B983-3C35F01B4F72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {867B88B2-9C2B-4C6D-BDB0-E1837EA7FEA7}
+	EndGlobalSection
+EndGlobal
